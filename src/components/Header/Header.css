@@ -1,0 +1,41 @@
+.container {
+  padding: 50px 30px;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 30px;
+}
+.m {
+  background-color: rgb(197, 236, 246);
+  min-height: 85vh;
+}
+
+.heading {
+  max-width: 500px;
+  color: #000;
+  font-size: 2.5rem;
+  line-height: 3.5rem;
+  font-weight: bold;
+  margin-top: -80px;
+}
+
+.heading span {
+  color: rgb(36, 184, 238);
+}
+
+.right img {
+  width: 400px;
+  box-shadow: 25px 25px 25px #333;
+}
+
+.center {
+  text-align: center;
+}
+.head {
+  font-size: 2.4rem;
+  text-align: center;
+  padding-top: 10px;
+  background-color: rgb(137, 222, 243);
+}
